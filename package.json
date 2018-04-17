@@ -4,7 +4,7 @@
   "description": "just a file controlling app",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon ."
+    "test": "node ."
   },
   "keywords": [
     "file",
